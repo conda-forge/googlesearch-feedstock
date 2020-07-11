@@ -5,7 +5,7 @@ Home: https://github.com/MarioVilas/googlesearch
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Google search from Python.
 
